@@ -1,0 +1,18 @@
+[1mdiff --git a/src/main/webapp/index.jsp b/src/main/webapp/index.jsp[m
+[1mindex 40fb09d..edcd41d 100644[m
+[1m--- a/src/main/webapp/index.jsp[m
+[1m+++ b/src/main/webapp/index.jsp[m
+[36m@@ -1,12 +1,7 @@[m
+ <html>[m
+[31m-[m
+ <body>[m
+[31m-[m
+ <h2>Hello sachu!</h2>[m
+[31m-[m
+ <p>This is my NextWork web application working!</p>[m
+[31m-[m
+[31m-<p>I am writing this line using nano instead of an IDE.</p>[m
+[31m-[m
+[32m+[m[32m<p>hi there my name is shanks</p>[m
+ </body>[m
+ </html>[m
